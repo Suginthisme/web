@@ -1,0 +1,16 @@
+body{
+   background: url(apple.png);
+   background-size: cover;
+   height: 100vh;
+   background-position: left;
+}
+.header{
+    width: 200%;
+}
+.header ul{
+    text-align:center;
+}
+.header ul li{
+    list-style: none;
+    display:inline-block
+}
